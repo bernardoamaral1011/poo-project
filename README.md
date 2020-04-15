@@ -1,4 +1,4 @@
 # poo-proj
-POO subject project
+Object Oriented Programming subject project
 
 Discrete Stochastic Simulations in Java
